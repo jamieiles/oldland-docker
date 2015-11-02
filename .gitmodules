@@ -1,0 +1,12 @@
+[submodule "gcc-oldland"]
+	path = toolchain/gcc-oldland
+	url = https://github.com/jamieiles/gcc-oldland.git
+	branch = oldland
+[submodule "binutils-gdb-oldland"]
+	path = toolchain/binutils-gdb-oldland
+	url = https://github.com/jamieiles/binutils-gdb-oldland.git
+	branch = oldland
+[submodule "newlib-oldland"]
+	path = toolchain/newlib-oldland
+	url = https://github.com/jamieiles/newlib-oldland.git
+	branch = oldland
